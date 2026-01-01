@@ -5,7 +5,7 @@ import google.generativeai as genai
 st.set_page_config(page_title="Justin Lemke | Career Doc Generator", page_icon="💼")
 
 # --- UI Header ---
-st.title("🚀 Career Document Architect")
+st.title("Justin's Career Builder")
 st.subheader("Generate tailored Resumes and Cover Letters using Gemini AI")
 
 # --- Sidebar: API Configuration ---
