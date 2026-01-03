@@ -2,11 +2,11 @@ import streamlit as st
 import google.generativeai as genai
 
 # App Configuration
-st.set_page_config(page_title="Justin Lemke | Career Doc Generator", page_icon="💼")
+st.set_page_config(page_title="Career Tools LLC | Michael Lemke", page_icon="💼")
 
 # --- UI Header ---
 st.title("Career Builder")
-st.subheader("Generate tailored Resumes and Cover Letters using Gemini AI")
+st.subheader("Generate tailored Resumes and Cover Letters")
 
 # --- Sidebar: API Configuration ---
 with st.sidebar:
