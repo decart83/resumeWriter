@@ -121,4 +121,4 @@ if st.button(f"Generate {doc_type}"):
 
 # Footer
 st.markdown("---")
-st.caption("Justin Lemke | Strategic Operations & Program Management")
+st.set_page_config(page_title="Career Tools LLC | Michael Lemke", page_icon="💼")
